@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Vince Kevin Añana 👋
-
-### UI/UX Designer • Web Developer • Digital Operations Manager
+## UI/UX Designer • Web Developer • Digital Operations Manager
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;UI%2FUX+Designer;SEO+Specialist;Building+Digital+Experiences" alt="Typing SVG" />
 
@@ -14,19 +12,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently working as **Web Developer** at **FutureThink Hub** (Non-Profit)
-- 💼 Also serving as **Digital Operations Manager** at **La Chow**
-- 🌱 Specializing in **Next.js**, **React**, **TypeScript**, and **SEO**
-- 🎨 Passionate about creating beautiful, responsive, and user-friendly interfaces
-- 📍 Based in **Cebu, Philippines** - Open to remote opportunities
-- 🎓 Studying **Computer Engineering** at Cebu Institute of Technology
-- 🏆 Earned **5 professional certifications** in 2026 (SEO, Next.js, React)
+- Currently working as **Web Developer** at **FutureThink Hub** (Non-Profit)
+- Also serving as **Digital Operations Manager** at **La Chow**
+- Specializing in **Next.js**, **React**, **TypeScript**, and **SEO**
+- Passionate about creating beautiful, responsive, and user-friendly interfaces
+- Based in **Cebu, Philippines** - Open to remote opportunities
+- Studying **Computer Engineering** at Cebu Institute of Technology
+- Earned **5 professional certifications** in 2026 (SEO, Next.js, React)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -59,13 +57,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mantequilla45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3B82F6&icon_color=3B82F6)](https://github.com/mantequilla45)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mantequilla45&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3B82F6)](https://github.com/mantequilla45)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mantequilla45&theme=tokyonight&hide_border=true&background=1A1B27&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)](https://github.com/mantequilla45)
 
@@ -73,24 +67,24 @@
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
-### 🌟 [La Chow](https://www.thelachow.com)
+### [La Chow](https://www.thelachow.com)
 Rebuilt company website from scratch with Next.js, boosting traffic through advanced SEO and integrated CRM.
 - **Tech:** Next.js, GoHighLevel, Google Analytics
 - **Impact:** Significantly increased site traffic and streamlined booking workflows
 
-### 🎓 [Guided Edge](https://www.futurethinkedge.org)
+### [Guided Edge](https://www.futurethinkedge.org)
 Large-scale educational platform where I serve as Lead Web Developer and Software Engineer.
 - **Tech:** Next.js, Python
 - **Role:** Architected scalable codebase, designed UI, engineered front-end foundation
 
-### 🏥 [BSDOC](https://bsdoc-project.vercel.app/)
+### [BSDOC](https://bsdoc-project.vercel.app/)
 Comprehensive web-based symptom checker and health guide with personalized recommendations.
 - **Tech:** Next.js, Firebase
 - **Features:** Symptom checker, medication recommendations, secure data storage
 
-### 💻 [PC BuildIt](https://github.com/mantequilla45/PC-Building-Simulator)
+### [PC BuildIt](https://github.com/mantequilla45/PC-Building-Simulator)
 Desktop application for designing custom PCs with compatibility checking and cost calculation.
 - **Tech:** C#, Windows Forms, .NET
 - **Features:** Component compatibility, cost calculation, clean UI
@@ -99,17 +93,27 @@ Desktop application for designing custom PCs with compatibility checking and cos
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
-- ✅ **SEO Certification** - HubSpot Academy (2026)
-- ✅ **React Foundations** - Next.js Learn (2026)
-- ✅ **Next.js Pages Router** - Next.js Learn (2026)
-- ✅ **Next.js App Router** - Next.js Learn (2026)
-- ✅ **SEO Fundamentals** - Next.js Learn (2026)
+<div align="center">
+
+[![SEO Certification](./assets/seo-certificate.png)](https://app-na2.hubspot.com/academy/achievements/434d3phz/en/1/vince-kevin-anana/seo)
+[![React Foundations](./assets/react-foundations-for-nextjs.png)](https://nextjs.org/learn/certificate?course=react-foundations&user=137115&certId=react-foundations-137115-1770478746126)
+[![Next.js Pages Router](./assets/nextjs-page-router-fundamentals.png)](https://nextjs.org/learn/certificate?course=pages-router&user=137115&certId=pages-router-137115-1770478725017)
+[![Next.js App Router](./assets/nextjs-app-router-fundamentals.png)](https://nextjs.org/learn/certificate?course=dashboard-app&user=137115&certId=dashboard-app-137115-1770476406945)
+
+</div>
+
+**Certifications:**
+- **[SEO Certification](https://app-na2.hubspot.com/academy/achievements/434d3phz/en/1/vince-kevin-anana/seo)** - HubSpot Academy (2026)
+- **[React Foundations](https://nextjs.org/learn/certificate?course=react-foundations&user=137115&certId=react-foundations-137115-1770478746126)** - Next.js Learn (2026)
+- **[Next.js Pages Router](https://nextjs.org/learn/certificate?course=pages-router&user=137115&certId=pages-router-137115-1770478725017)** - Next.js Learn (2026)
+- **[Next.js App Router](https://nextjs.org/learn/certificate?course=dashboard-app&user=137115&certId=dashboard-app-137115-1770476406945)** - Next.js Learn (2026)
+- **[SEO Fundamentals](https://nextjs.org/learn/certificate?course=seo&user=137115&certId=seo-137115-1770618305781)** - Next.js Learn (2026)
 
 ---
 
-## 📈 What I'm Working On
+## What I'm Working On
 
 ```javascript
 const vinceKevin = {
@@ -123,7 +127,7 @@ const vinceKevin = {
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -135,19 +139,9 @@ const vinceKevin = {
 
 ---
 
-## 📊 Profile Views
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mantequilla45&color=3B82F6&style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Building digital experiences, one line of code at a time."
+**"Building digital experiences, one line of code at a time."**
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
