@@ -97,21 +97,11 @@
 
   <div align="center">
 
-  <a href="https://app-na2.hubspot.com/academy/achievements/434d3phz/en/1/vince-kevin-anana/seo" target="_blank">
-    <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/baf1fcae633b43169f2cb17bda48a668.png" alt="SEO Certification - HubSpot" height="150"/>
-  </a>
-  <a href="https://nextjs.org/learn/certificate?course=seo&user=137115&certId=seo-137115-1770618305781" target="_blank">
-    <img src="./assets/seo-certificate.png" alt="SEO Fundamentals - Next.js" height="150"/>
-  </a>
-  <a href="https://nextjs.org/learn/certificate?course=react-foundations&user=137115&certId=react-foundations-137115-1770478746126" target="_blank">
-    <img src="./assets/react-foundations-for-nextjs.png" alt="React Foundations" height="150"/>
-  </a>
-  <a href="https://nextjs.org/learn/certificate?course=pages-router&user=137115&certId=pages-router-137115-1770478725017" target="_blank">
-    <img src="./assets/nextjs-page-router-fundamentals.png" alt="Next.js Pages Router" height="150"/>
-  </a>
-  <a href="https://nextjs.org/learn/certificate?course=dashboard-app&user=137115&certId=dashboard-app-137115-1770476406945" target="_blank">
-    <img src="./assets/nextjs-app-router-fundamentals.png" alt="Next.js App Router" height="150"/>
-  </a>
+  <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/baf1fcae633b43169f2cb17bda48a668.png" alt="SEO Certification - HubSpot" height="150"/>
+  <img src="./assets/seo-certificate.png" alt="SEO Fundamentals - Next.js" height="150"/>
+  <img src="./assets/react-foundations-for-nextjs.png" alt="React Foundations" height="150"/>
+  <img src="./assets/nextjs-page-router-fundamentals.png" alt="Next.js Pages Router" height="150"/>
+  <img src="./assets/nextjs-app-router-fundamentals.png" alt="Next.js App Router" height="150"/>
 
   </div>
 
