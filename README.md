@@ -97,10 +97,18 @@ Desktop application for designing custom PCs with compatibility checking and cos
 
 <div align="center">
 
-[![SEO Certification](./assets/seo-certificate.png)](https://app-na2.hubspot.com/academy/achievements/434d3phz/en/1/vince-kevin-anana/seo)
-[![React Foundations](./assets/react-foundations-for-nextjs.png)](https://nextjs.org/learn/certificate?course=react-foundations&user=137115&certId=react-foundations-137115-1770478746126)
-[![Next.js Pages Router](./assets/nextjs-page-router-fundamentals.png)](https://nextjs.org/learn/certificate?course=pages-router&user=137115&certId=pages-router-137115-1770478725017)
-[![Next.js App Router](./assets/nextjs-app-router-fundamentals.png)](https://nextjs.org/learn/certificate?course=dashboard-app&user=137115&certId=dashboard-app-137115-1770476406945)
+<a href="https://app-na2.hubspot.com/academy/achievements/434d3phz/en/1/vince-kevin-anana/seo">
+  <img src="./assets/seo-certificate.png" alt="SEO Certification" width="200"/>
+</a>
+<a href="https://nextjs.org/learn/certificate?course=react-foundations&user=137115&certId=react-foundations-137115-1770478746126">
+  <img src="./assets/react-foundations-for-nextjs.png" alt="React Foundations" width="200"/>
+</a>
+<a href="https://nextjs.org/learn/certificate?course=pages-router&user=137115&certId=pages-router-137115-1770478725017">
+  <img src="./assets/nextjs-page-router-fundamentals.png" alt="Next.js Pages Router" width="200"/>
+</a>
+<a href="https://nextjs.org/learn/certificate?course=dashboard-app&user=137115&certId=dashboard-app-137115-1770476406945">
+  <img src="./assets/nextjs-app-router-fundamentals.png" alt="Next.js App Router" width="200"/>
+</a>
 
 </div>
 
