@@ -19,7 +19,6 @@
   - Specializing in **Next.js**, **React**, **TypeScript**, and **SEO**
   - Passionate about creating beautiful, responsive, and user-friendly interfaces
   - Based in **Cebu, Philippines** - Open to remote opportunities
-  - Studying **Computer Engineering** at Cebu Institute of Technology
   - Earned **5 professional certifications** in 2026 (SEO, Next.js, React)
 
   ---
