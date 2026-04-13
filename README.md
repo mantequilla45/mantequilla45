@@ -1,8 +1,8 @@
 <div align="center">
 
-## Full-Stack Developer • UI/UX Designer
+## Full-Stack Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Integration+Specialist;UI%2FUX+Designer;Building+Digital+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;AI+Integration+Specialist;Building+Digital+Experiences" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-success?style=for-the-badge)](https://vka-portfolio.vercel.app)
 [![Resume](https://img.shields.io/badge/📄_Resume-View-blue?style=for-the-badge)](https://vka-portfolio.vercel.app/resume)
