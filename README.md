@@ -4,9 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Next.js+%2B+PostgreSQL+Platforms;Database+to+Deployment" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=for-the-badge)](https://vka-portfolio.vercel.app)
-[![Resume](https://img.shields.io/badge/📄_Resume-3B82F6?style=for-the-badge)](https://vka-portfolio.vercel.app/resume)
-[![Email](https://img.shields.io/badge/📧_Email-3B82F6?style=for-the-badge)](mailto:vinceanana45@gmail.com)
+🌐 [Portfolio ↗](https://vka-portfolio.vercel.app) &nbsp;·&nbsp; 📄 [Resume ↗](https://vka-portfolio.vercel.app/resume) &nbsp;·&nbsp; 📧 [Email ↗](mailto:vinceanana45@gmail.com)
 
 </div>
 
